@@ -1,0 +1,291 @@
+.container{
+    width: 980px;
+    margin: 0px auto;
+}
+    .top{
+        height: 90px;
+        background-color: rgb(34, 88, 206);
+    }
+        .reward{
+            height: 20px;
+            background-color: rgb(34, 88, 206);
+            margin-left: 280px;
+            display: inline-block;
+            font-size: 12px;
+            vertical-align: top;
+            color: white;
+        }
+            .opt{
+                width: 15px;
+                height: 15px;
+                margin-right: 5px;
+                font-size: 10px;
+            }
+            .sel{
+                vertical-align: top;
+                background-color: rgb(28, 84, 206);
+                height: 15px;
+                font-size: 12px;
+                color: white;
+            }
+            .lists{
+                margin: 0px;
+                width: 235px;
+                height: 15px;
+                background-color: rgb(28, 84, 206);
+                display: inline-block;
+                padding-left: 0px;
+                font-size: 13px;
+                vertical-align: top;
+            }
+                .lis{
+                    display: inline;
+                    margin-right: 5px;
+                }
+        .sub_top1{
+            width: 980px;
+            height: 40px;
+            vertical-align: top;
+            margin-top: 0px;
+        }
+            .walmart{
+                width: 150px;
+                font-size: 30px;
+                color: white;
+                margin-left: 30px;
+                display: inline-block;
+                vertical-align: top;
+                margin-top: 0px;
+            }
+            .symbol{
+                width: 35px;
+                height: 35px;
+                vertical-align: top;
+            }
+            .sear{
+                display: inline-block;
+                width: 535px;
+                margin: 7px 40px;
+                vertical-align: top;
+            }
+                .all{
+                    height: 25px;
+                    font-size: 15px;
+                    border-bottom-left-radius: 15px;
+                    border-top-left-radius: 15px;
+                }
+                .search{
+                    width: 450px;
+                    height: 20px;
+                }
+                .go{
+                    height: 25px;
+                    font-size: 15px;
+                    border-bottom-right-radius: 15px;
+                    border-top-right-radius: 15px;
+                }
+            .sign_in{
+                display: inline-block;
+                width: 90px;
+                height: 30px;
+                color: white;
+                vertical-align: top;
+                margin: 0px;
+            }
+                .hello{
+                    width: 60px;
+                    font-size: 10px;
+                    padding-left: 30px;
+                    margin-bottom: 0px;
+                }
+                .my_account{
+                    background-color: rgb(28, 84, 206);
+                    color: white;
+                }
+                .bar{
+                    display: inline-block;
+                    color: black;
+                    font-size: 30px;
+                    margin: 0px 0px 0px 3px;
+                    vertical-align: top;
+                }
+                    .cart{
+                        width: 20px;
+                        height: 20px;
+                        margin-left: 5px;
+                        display: inline-block;
+                        vertical-align: middle;
+                    }
+        .sub_top2{
+            width: 980;
+            height: 30px;
+            background-color: rgb(252, 249, 249);;
+        }
+            .dept{
+                width: 120px;
+                height: 30;
+                margin: 7px 0px 0px 30px;
+                display: inline-block;
+            }
+            .tax{
+                display: inline-block;
+                font-size: 12px;
+                color: rgb(189, 60, 9);
+                margin-left: 40px;
+            }
+            .loc{
+                display: inline-block;
+                font-size: 12px;
+                margin-left: 5px;
+            }
+            .order{
+                display: inline-block;
+                font-size: 12px;
+                margin-left: 270px;
+            }
+    .main_content{
+        width: 980px;
+        height: 500px;
+        display: inline-block;
+    }     
+        .nav1{
+            width: 225px;
+            height: 130px;
+            margin-left: 280px;
+            display: inline-block;
+            vertical-align: top;
+        }
+            .intro{
+                color: rgb(28, 84, 206);
+                margin: 0px;
+                font-style: italic;
+            }
+            .free{
+                margin: 0px;
+                color: green;
+                font-size: 50px;
+                font-style: italic;
+            }
+            .day2{
+                margin: 0px;
+                font-size: 30px;
+                color: green;
+                font-style: italic;
+            }
+            .no{
+                margin: 0px;
+                font-size: 25px;
+                color: rgb(199, 100, 34);
+                font-style: italic;
+            }
+            .learn{
+                margin: 0px;
+                color: rgb(34, 88, 206);
+                font-size: 15px;
+            }
+            .rest{
+                margin: 10px 0px;
+                
+            }
+        .art{
+            display: inline-block;
+            width: 470px;
+        }
+        .nav2{
+            width: 980px;
+            height: 260px;
+            background-color: rgb(209, 208, 202);
+            display: inline-block;
+        }
+            .stretch{
+                font-size: 15px;
+                display: inline-block;
+                margin-left: 20px;
+                margin-right: 750px;
+                vertical-align: top;
+            }
+            .shop{
+                font-size: 12px;
+                display: inline-block;
+            }
+            .prod{
+                width: 940px;
+                height: 100px;
+                margin-top: 0px;
+            }
+            .picture{
+                display: inline-block;
+                width: 115px;
+                height: 205px;
+                background-color: rgb(252, 249, 249);
+                vertical-align: top;
+                margin-left: 5px;
+            }
+                .product{
+                    width: 105px;
+                    height: 120px;
+                    display: inline-block;
+                    margin: 5px 0px 0px 5px;
+                }
+                .numb{
+                    font-size: 14px;
+                    margin: 0px 5px;
+                    width: 20px;
+                }
+                .small{
+                    font-size: 9px;
+                    color: rgb(11, 36, 117);
+                    margin: 0px 5px;
+                }
+                .name{
+                    font-size: 10px;
+                    margin: 0px 5px;
+                }
+                .star{
+                    margin: 0px 5px;
+
+                }
+        .nav3{
+            width: auto;
+            height: 150px;
+            display: inline-block;
+            margin: 0px;
+        }
+            .day{
+                font-size: 25px;
+                width: 100px;
+                display: inline-block;
+            }
+            .kart{
+                width: 75px;
+                height: 75px;
+            }
+            .shipping{
+                width: 750px;
+                height: 80px;
+                display: inline-block;
+                vertical-align: top;
+                margin-left: 0px;
+            }
+                .day{
+                    font-size: 15px;
+                    width: 80px;
+                    height: 90px;
+                    margin-left: 40px;
+                    font-size: 20px;
+                    color: rgb(1, 199, 1);
+                    text-align: center;
+                }
+                .pictures{
+                    display: inline-block;
+                    width: 115px;
+                    height: 150px;
+                    background-color: rgb(252, 249, 249);
+                    vertical-align: top;
+                    margin-left: 5px;
+                }
+                .baby{
+                    font-size: 11px;
+                    color: rgb(28, 84, 206);
+                    text-align: center;
+                }
